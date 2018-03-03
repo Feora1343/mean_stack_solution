@@ -7,9 +7,11 @@ It is **highly recommended** that you not fork this repo, but instead `git clone
 
 Then you can take the basic folder structure, create a new project folder, copy pasta the files into your new project and thus you have your basic folder structure.
 
-Be sure to run `npm install` so that you install the latest and necessary modules and update your package.json file. This is different for everyone on their projects, but some basic ones to consider are express, path, pg, angular, bootstrap.
+Be sure to run `npm install` so that you install the latest and necessary modules and update your package.json file.
 
 You can run this command to make sure they are installed if you don't trust the `npm install` option: `npm install express body-parser angular angular-route angular-messages angular-aria angular-material angular-animate mongoose`.
+
+Feel free to install other modules as needed for your project.
 
 When you install modules, they are placed in the node_modules folder of your project directory and you will need to find those files (as well as move them and link to them corretly as sources) if you do not wish to use the ones that are provided in this repo.
 
