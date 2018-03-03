@@ -9,11 +9,11 @@ Then you can take the basic folder structure, create a new project folder, copy 
 
 Be sure to run `npm install` so that you install the latest and necessary modules and update your package.json file. This is different for everyone on their projects, but some basic ones to consider are express, path, pg, angular, bootstrap.
 
-You can run this command to make sure they are installed if you don't trust the `npm install` option: `npm install express body-parser pg path angular bootstrap`.
+You can run this command to make sure they are installed if you don't trust the `npm install` option: `npm install express body-parser angular angular-route angular-messages angular-aria angular-material angular-animate`.
 
 When you install modules, they are placed in the node_modules folder of your project directory and you will need to find those files (as well as move them and link to them corretly as sources) if you do not wish to use the ones that are provided in this repo.
 
-Last Updated: `2/23/2018`
+Last Updated: `3/2/2018`
 
 # Package.json and Express Install Commands
 
