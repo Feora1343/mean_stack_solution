@@ -47,7 +47,7 @@ Project Folder (git repo)/
         |     └── angular-route.min.js
         |     └── angular.min.js
         └── /styles
-        |      └── main.css
+        |      └── styles.css
         └── /views
               └── name-view.html
               └── /nav
