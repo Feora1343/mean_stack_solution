@@ -25,9 +25,9 @@ Last Updated: `3/2/2018`
 ,___________,         .----------,  _Request_    .---------,         .----------.
 |___________|       ,'________ ,'|   -> | ->   ,'________,'|        ( ~--------~ )
 | HTML 5    |      | AngularJS | |      |      | _______ | |        | ~--------~ |
-| CSS       |      | Angular   | |      |      | Node.js | |        | MongoDB    |
-| Angular   | <--  |  Material | |      |      | Express | |  <--   | Robo3T     |        
-|  Material |      |           | ;   <- | <-   | _______ | ;        | ~--------~ |
+| CSS       |      |           | |      |      | Node.js | |        | MongoDB    |
+|           | <--  |           | |      |      | Express | |  <--   | Robo3T     |        
+|           |      |           | ;   <- | <-   | _______ | ;        | ~--------~ |
 |___________|      |___________|'  _Response_  |_________|'         `.__________.'
     Client          Client Logic                  Server               Database
            *Front End*                                     *Back End*              
